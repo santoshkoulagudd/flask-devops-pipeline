@@ -1,4 +1,4 @@
-# flask-devops-pipeline
+# flask-DevOps-CI/CD-pipeline
 ## 🔧 Project Structure
 
 ```text
@@ -13,16 +13,3 @@ flask-devops/
     └── workflows/
         └── deploy.yaml   # GitHub Actions CI/CD pipeline
 
-This ensures:
-- Fixed width font
-- No bold/heading formatting
-- Clean display on GitHub
-
----
-
-### ✅ How to Fix in Terminal
-
-If you're on your EC2 instance:
-```bash
-cd ~/flask-devops
-nano README.md
